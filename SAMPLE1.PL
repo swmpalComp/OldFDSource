@@ -1,0 +1,8 @@
+LDVAL 44
+LDVAL 55
+MLT    0
+LDVAL 12
+ADD    0
+WTINT  0
+HALT   0
+
